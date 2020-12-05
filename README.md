@@ -1,5 +1,7 @@
 ## Hi there, I'm Eduard! 🐱‍👤
 
+<img align="right" width="50%" src="https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e474p51mchtkhk7ldb6mrd5e64wk1q2klbxwkl8ctbw&rid=giphy.gif">
+
 ### I'm Into 😎👌
 
 I'm 19 years old Self-taught Backend developer from Dominican Republic 
@@ -11,6 +13,7 @@ I'm 19 years old Self-taught Backend developer from Dominican Republic
 #### - 🎞 Video editor as a hobby
 
 #### - 💪 Exercise lover
+
 
 <br />
 
