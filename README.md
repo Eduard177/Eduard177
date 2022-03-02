@@ -6,7 +6,7 @@
 
 I'm 20 years old Self-taught Backend developer from Dominican Republic 
 
-#### - 💻 Web Development, QA, Computer technician
+#### - 💻 Web Development, Software Development, Computer technician
 
 #### - 🥀 Learning Python<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
 
