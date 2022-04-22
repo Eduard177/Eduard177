@@ -4,7 +4,7 @@
 
 ### I'm Into 😎👌
 
-I'm 20 years old Self-taught Backend developer from Dominican Republic 
+I'm 20 years old Self-taught Full-Stack developer from Dominican Republic 
 
 #### - 💻 Web Development, Software Development, Computer technician
 
