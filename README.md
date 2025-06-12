@@ -12,7 +12,7 @@
 I'm a self-taught **Full-Stack Developer** based in the **Dominican Republic**, with a strong passion for building scalable web applications and exploring modern technologies. I bring a versatile skill set and a proactive mindset to every project I undertake.
 
 - 🔧 Background in computer systems and technical support  
-- 🌱 Currently expanding my expertise in **Python**  
+- 🌱 Currently expanding my expertise in **Go**  
 - 🎬 Passionate about digital creativity, including video editing  
 - 🏋️ Dedicated to continuous self-improvement, both mentally and physically  
 
